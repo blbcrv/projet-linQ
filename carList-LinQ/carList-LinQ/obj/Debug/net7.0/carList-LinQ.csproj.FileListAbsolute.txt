@@ -1,0 +1,15 @@
+/Users/clement/Projects/carList-LinQ/carList-LinQ/bin/Debug/net7.0/carList-LinQ
+/Users/clement/Projects/carList-LinQ/carList-LinQ/bin/Debug/net7.0/carList-LinQ.deps.json
+/Users/clement/Projects/carList-LinQ/carList-LinQ/bin/Debug/net7.0/carList-LinQ.runtimeconfig.json
+/Users/clement/Projects/carList-LinQ/carList-LinQ/bin/Debug/net7.0/carList-LinQ.dll
+/Users/clement/Projects/carList-LinQ/carList-LinQ/bin/Debug/net7.0/carList-LinQ.pdb
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.csproj.AssemblyReference.cache
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.AssemblyInfoInputs.cache
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.AssemblyInfo.cs
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.csproj.CoreCompileInputs.cache
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.dll
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/refint/carList-LinQ.dll
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.pdb
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/carList-LinQ.genruntimeconfig.cache
+/Users/clement/Projects/carList-LinQ/carList-LinQ/obj/Debug/net7.0/ref/carList-LinQ.dll

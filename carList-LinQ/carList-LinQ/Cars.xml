@@ -1,0 +1,37 @@
+﻿<Cars>
+  <Car>
+    <ID>1</ID>
+    <Constructor>Tesla</Constructor>
+    <Model>Model S</Model>
+    <Year>2020</Year>
+    <IsElectric>true</IsElectric>
+  </Car>
+  <Car>
+    <ID>2</ID>
+    <Constructor>Ford</Constructor>
+    <Model>Mustang</Model>
+    <Year>2021</Year>
+    <IsElectric>false</IsElectric>
+  </Car>
+  <Car>
+    <ID>3</ID>
+    <Constructor>Nissan</Constructor>
+    <Model>Leaf</Model>
+    <Year>2019</Year>
+    <IsElectric>true</IsElectric>
+  </Car>
+  <Car>
+    <ID>4</ID>
+    <Constructor>Chevrolet</Constructor>
+    <Model>Volt</Model>
+    <Year>2018</Year>
+    <IsElectric>true</IsElectric>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Constructor>Toyota</Constructor>
+    <Model>Camry</Model>
+    <Year>2022</Year>
+    <IsElectric>false</IsElectric>
+  </Car>
+</Cars>
